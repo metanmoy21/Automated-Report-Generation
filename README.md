@@ -65,3 +65,10 @@ This script can be extremely useful in real-life scenarios where data needs to b
 
 Overall, this script demonstrates a practical workflow for converting raw text data into a professional PDF report. By combining Python’s file handling capabilities with the FPDF library, it provides a flexible and reliable way to generate readable, shareable documents from plain text. With minor modifications, it could handle more complex tables, include styling, add multiple pages, or even integrate charts, making it a powerful tool for data presentation in real life.
 
+**Input**
+
+<img width="200" height="165" alt="Image" src="https://github.com/user-attachments/assets/9b166031-abe3-4f6a-b890-06816d4b2508" />
+
+**Output**
+
+<img width="994" height="482" alt="Image" src="https://github.com/user-attachments/assets/8fd44299-2976-4119-9b06-48471dbd1630" />
